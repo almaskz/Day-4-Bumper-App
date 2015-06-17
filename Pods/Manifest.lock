@@ -1,0 +1,23 @@
+PODS:
+  - ReactiveCocoa (2.2.2):
+    - ReactiveCocoa/Core (= 2.2.2)
+    - ReactiveCocoa/no-arc (= 2.2.2)
+  - ReactiveCocoa/Core (2.2.2):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.2.2)
+  - SAMCategories (0.4.0)
+  - SimpleAuth/Core (0.3.0):
+    - ReactiveCocoa
+    - SAMCategories
+  - SimpleAuth/Instagram (0.3.0):
+    - SimpleAuth/Core
+
+DEPENDENCIES:
+  - SimpleAuth/Instagram
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: 7bd91e3e818c307c5a9ba7a3a91285acfea0969f
+  SAMCategories: fb35d723e2d29b70afdd7efabfd1f99d4d1fe7f5
+  SimpleAuth: 70b33d7679391322100deb3e5350d82c170e1334
+
+COCOAPODS: 0.37.2

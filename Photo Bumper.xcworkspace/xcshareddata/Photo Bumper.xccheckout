@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7AADCC69-DAA2-4ABF-A84A-DB03BE81E834</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Photo Bumper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>60FCF4B6A29B215801DA470F82061F4BE4D961DD</key>
+		<string>https://github.com/almaskz/Day-4-Bumper-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Photo Bumper.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>60FCF4B6A29B215801DA470F82061F4BE4D961DD</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/almaskz/Day-4-Bumper-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>60FCF4B6A29B215801DA470F82061F4BE4D961DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60FCF4B6A29B215801DA470F82061F4BE4D961DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Photo%20Bumper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
